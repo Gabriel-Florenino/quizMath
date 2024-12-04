@@ -1,0 +1,94 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "location": "Museu Nacional do Mar",
+      "context": "O museu abriga cerca de 150 embarcações históricas. Algumas delas são feitas de madeira rara, cortadas em ângulos precisos para encaixe perfeito.",
+      "problem": "Um carpinteiro corta uma tábua em um ângulo de 45° para fazer parte de uma embarcação. Se a sombra da peça mede 3 metros e o comprimento da tábua é o dobro disso, qual é o comprimento da tábua?",
+      "options": ["6 metros", "5 metros", "4 metros", "3 metros"],
+      "answer": "6 metros",
+      "imagePath": "/musseuDoMar.jpg"
+    },
+    {
+      "id": 2,
+      "location": "Igreja Matriz Nossa Senhora da Graça",
+      "context": "A igreja foi construída no século XVII e é um dos marcos da arquitetura colonial brasileira.",
+      "problem": "O sino da igreja pesa 200 kg. Se ele é levantado a uma altura de 10 metros e a gravidade é 9,8 m/s², qual é o potencial de energia armazenada?",
+      "options": ["19.600 Joules", "20.000 Joules", "18.000 Joules", "22.000 Joules"],
+      "answer": "19.600 Joules",
+      "imagePath": "/igrejaMatriz.webp"
+    },
+    {
+      "id": 3,
+      "location": "Mercado Público Municipal",
+      "context": "O mercado é um centro de comércio onde os produtos locais são vendidos desde o século XX.",
+      "problem": "Um comerciante vende camarões a R$50 o quilo. Se ele faz uma promoção de 20% de desconto por quilo para compras acima de 5 kg, quanto um cliente paga por 7 kg?",
+      "options": ["R$280", "R$300", "R$350", "R$400"],
+      "answer": "R$280",
+      "imagePath": "/mercadoPublico.jpg"
+    },
+    {
+      "id": 4,
+      "location": "Forte Marechal Luz",
+      "context": "O forte foi construído no século XVIII para proteger a cidade contra invasões.",
+      "problem": "As paredes do forte têm 1,2 metros de espessura e uma área de 50 m². Qual é o volume da parede?",
+      "options": ["60 m³", "50 m³", "75 m³", "40 m³"],
+      "answer": "60 m³",
+      "imagePath": "/forteMarechalLuz.jpg"
+    },
+    {
+      "id": 5,
+      "location": "Praia da Enseada",
+      "context": "Conhecida por suas águas calmas e areia clara, a Praia da Enseada é um dos principais destinos turísticos.",
+      "problem": "Um turista aluga um caiaque por R$30 a hora. Se ele paga R$105, por quantas horas ele usou o caiaque?",
+      "options": ["4 horas", "3,5 horas", "3 horas", "5 horas"],
+      "answer": "3,5 horas",
+      "imagePath": "/enseada.jpg"
+    },
+    {
+      "id": 6,
+      "location": "Museu Histórico de São Francisco do Sul",
+      "context": "O museu contém documentos e peças históricas que contam a história da cidade.",
+      "problem": "O museu registrou 1.200 visitantes em um mês. Se a média diária foi constante, quantos visitantes o museu recebeu por dia?",
+      "options": ["40", "50", "60", "30"],
+      "answer": "60",
+      "imagePath": "/musseuHistorico.png"
+    },
+    {
+      "id": 7,
+      "location": "Vila da Glória",
+      "context": "Um dos bairros mais tradicionais, acessível por balsa e conhecido por suas belezas naturais.",
+      "problem": "A balsa transporta 10 carros por viagem e faz 12 viagens por dia. Quantos carros são transportados em uma semana?",
+      "options": ["720", "840", "1.200", "1.000"],
+      "answer": "840",
+      "imagePath": "/vilaDaGloria.jpg"
+    },
+    {
+      "id": 8,
+      "location": "Farol da Ilha da Paz",
+      "context": "Construído no século XIX, o farol guia navegantes em segurança.",
+      "problem": "Se a luz do farol pisca a cada 8 segundos, quantas vezes ele piscará em 2 horas?",
+      "options": ["450", "900", "720", "800"],
+      "answer": "900",
+      "imagePath": "/farol.jpg"
+    },
+    {
+      "id": 9,
+      "location": "Rua Babitonga",
+      "context": "Uma das ruas mais antigas, com construções do período colonial.",
+      "problem": "Um arquiteto deseja restaurar uma calçada de 25 metros de comprimento e 2 metros de largura. Quantos metros quadrados ele precisa pavimentar?",
+      "options": ["50 m²", "40 m²", "60 m²", "55 m²"],
+      "answer": "50 m²",
+      "imagePath": "/ruaBabitonga.jpg"
+    },
+    {
+      "id": 10,
+      "location": "Parque Ecológico Municipal",
+      "context": "Uma área de preservação ambiental, ideal para caminhadas e trilhas.",
+      "problem": "Uma trilha circular tem 5 km de extensão. Se um grupo percorre 3 voltas completas, quantos quilômetros eles caminharam?",
+      "options": ["15 km", "10 km", "20 km", "12 km"],
+      "answer": "15 km",
+      "imagePath": "/parqueAcarai.jpg"
+    }
+  ]
+}
