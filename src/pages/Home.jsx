@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Questions from "../components/questions";
+import Questions from "../components/Questions";
 
 function App() {
   const [showQuestions, setShowQuestions] = useState(false);
